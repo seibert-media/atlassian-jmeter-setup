@@ -1,0 +1,6 @@
+thresholds:
+  Dashboard Action - /dashboard.action:
+    median: 600
+    p90: 1200
+    p99: 1800
+

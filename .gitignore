@@ -1,0 +1,6 @@
+apache-jmeter-*
+report-*
+current_report
+.idea
+*.iml
+*.log
